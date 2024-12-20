@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300696060854",
+    "project_id": "btktck-f6b44",
+    "storage_bucket": "btktck-f6b44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300696060854:android:07b395912b3456df06b717",
+        "android_client_info": {
+          "package_name": "com.example.btktck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0v3p8JMLQL-lf8ylM4qVZ2JV73wm2dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
