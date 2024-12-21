@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">btKTCK</string>
+    <string name="mess">Tin nhan</string>
+    <string name="profile">Thong Tin</string>
+    <string name="pay">Thanh Toan</string>
+    <string name="activity">Hoat Dong</string>
+    <string name="home">Trang Chu</string>
 </resources>
